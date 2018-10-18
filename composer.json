@@ -1,5 +1,5 @@
 {
-	"name" : "jschaedl/iban",
+	"name" : "verivox/iban",
 	"type" : "library",
 	"description" : "validate and generate IBANs",
 	"keywords" : [
@@ -7,8 +7,8 @@
 		"validation",
 		"generate"
 	],
-	"homepage" : "http://github.com/jschaedl/Iban",
-	"license" : "MIT",
+	"homepage" : "http://github.com/Preis24/Iban",
+	"license" : "UNLICENSED",
 	"authors" : [{
 			"name" : "Jan Schädlich",
 			"email" : "mail@janschaedlich.com",
